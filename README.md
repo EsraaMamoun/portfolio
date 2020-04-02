@@ -14,10 +14,10 @@ Actual time needed to complete: 2 hours and 15 minutes.
 
 **Number and name of feature: Feature #2: Modify the contents.**
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour and half.
 
-Start time: _____
+Start time: 3:00 am.
 
-Finish time: _____
+Finish time: 5:00 am.
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2 Hours.  <!-- but it's not completed yet. -->
